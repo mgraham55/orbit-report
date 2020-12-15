@@ -13,6 +13,7 @@ export class Satellite {
         this.operational = operational
     }
 
+
     
 }
 
