@@ -1,10 +1,10 @@
 .sortable {
     cursor: pointer;
-    color: #dd5;
+    color: rgb(77, 14, 114);
 }
 
 .warning {
-    background-color: #e5ff00;
+    background-color: #bd2d7c;
 }
 
 table {
